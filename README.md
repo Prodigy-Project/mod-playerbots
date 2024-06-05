@@ -1,3 +1,6 @@
+# This module is out of date
+Please use the excellent continuation of this module developed by liyunfan1223, which can be found [here](https://github.com/liyunfan1223/mod-playerbots).
+
 # Playerbots Module
 
 This is a WIP Playerbots module for AzerothCore based on IKE3 Playerbots.
